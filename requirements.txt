@@ -1,0 +1,7 @@
+torch
+transformers
+pandas
+sentencepiece
+evaluate
+rouge_score
+gradio
